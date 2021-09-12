@@ -9,17 +9,19 @@ A deep dive into ride-sharing data to evaluate differences in fares by city type
 
 ## Analysis
 
-Effect on school district metrict after the data was removed for the affected scores
-- Total budgets remained unchanged
-- Average math scores declined from  79% to 78.9%
-- Average reading scores remained at 81.9%
-- % Passing math declined from to 75% to 74.8%
-- % Passing reading declined from to 85.8% 85.7%
-- % Overall reading declined from to 65.2 to 64.9%
+We can examine the results more visually in the image below, but here are some key takeaways by city types
+- Total rides were highest in Urban area: 1625
+- Urban areas also had the most drivers: 2405
+- Total Fares were highest in urban areas: $39,854.38
+- Average fares per ride and per driver were much lower in urban areas. They were highest in rural areas. 
+
+
+![Dataframe.png](https://github.com/kejtkjet1/PyBer_Analysis/blob/main/analysis/Dataframe.png)
+
+Looking at weekly trends by city type below, we can see that peak fares were the highest in urban and suburban areas third week of February, however in rural areas they were the highest at the beginning of April. 
 
 ![PyBer_fare_summary.png](https://github.com/kejtkjet1/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-![Dataframe.png](https://github.com/kejtkjet1/PyBer_Analysis/blob/main/analysis/Dataframe.png)
 
 The code for the analysis can be located: https://github.com/kejtkjet1/School_District_Analysis/blob/main/PyBer_Analysis/PyBer_Challenge.ipynb
 
@@ -27,4 +29,6 @@ The CSV files with the raw dat: https://github.com/kejtkjet1/PyBer_Analysis/tree
 
 ## Summary
 
-- The clearing of the suspected altered scores had a marginal difference on the overall results. Most of the scores declined marginally. Scores affected were: average math score, % passing math, % passing reading and overall passing %. But those declines were only a fraction of percent. 
+- Urban areas should remain the main focus for the business, they are responsible for most volume and overall revenue. 
+- A good way to expand the business opportunities will be initiatives to increase the volumes in rural areas where the fares per ride and per driver are much higher than the urban centers
+- Similar recommendation for suburban areas, any initiative that increase the volumes of rides in this area will increase the profitability of the busienss. 
