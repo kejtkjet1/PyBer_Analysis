@@ -19,9 +19,11 @@ Effect on school district metrict after the data was removed for the affected sc
 
 ![PyBer_fare_summary.png](https://github.com/kejtkjet1/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-The code for the analysis can be located: https://github.com/kejtkjet1/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
+![Dataframe.png](https://github.com/kejtkjet1/PyBer_Analysis/blob/main/analysis/Dataframe.png)
 
-The CSV files with the raw data can be located in the below folder: https://github.com/kejtkjet1/School_District_Analysis/tree/main/Resources
+The code for the analysis can be located: https://github.com/kejtkjet1/School_District_Analysis/blob/main/PyBer_Analysis/PyBer_Challenge.ipynb
+
+The CSV files with the raw dat: https://github.com/kejtkjet1/PyBer_Analysis/tree/main/Resources
 
 ## Summary
 
