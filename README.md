@@ -23,7 +23,7 @@ Looking at weekly trends by city type below, we can see that peak fares were the
 ![PyBer_fare_summary.png](https://github.com/kejtkjet1/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
-The code for the analysis can be located: https://github.com/kejtkjet1/School_District_Analysis/blob/main/PyBer_Analysis/PyBer_Challenge.ipynb
+The code for the analysis can be located: https://github.com/kejtkjet1/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb
 
 The CSV files with the raw dat: https://github.com/kejtkjet1/PyBer_Analysis/tree/main/Resources
 
