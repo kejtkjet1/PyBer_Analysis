@@ -12,7 +12,7 @@ A deep dive into ride-sharing data to evaluate differences in fares by city type
 We can examine the results more visually in the image below, but here are some key takeaways by city types
 - Total rides were highest in Urban area: 1625
 - Urban areas also had the most drivers: 2405
-- Total Fares were highest in urban areas: $39,854.38
+- Total Fares were highest in Urban areas: $39,854.38
 - Average fares per ride and per driver were much lower in urban areas. They were highest in rural areas. 
 
 
