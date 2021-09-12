@@ -1,11 +1,11 @@
 # Pyber_Analysis
-Python and Pandas and Matplotlib analysis
+Python, Pandas and Matplotlib analysis
 
 ## Overview of Project
 
 ### Purpose
 
-A deep dive into ride-sharing data to evaluate differentce in fares by city type as well as weekly fare breakout by city type.  
+A deep dive into ride-sharing data to evaluate differences in fares by city type as well as weekly fare breakout by city type. The analysis to be provided to the decision-makers at PyBer.
 
 ## Analysis
 
@@ -17,6 +17,7 @@ Effect on school district metrict after the data was removed for the affected sc
 - % Passing reading declined from to 85.8% 85.7%
 - % Overall reading declined from to 65.2 to 64.9%
 
+![PyBer_fare_summary.png](https://github.com/kejtkjet1/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 The code for the analysis can be located: https://github.com/kejtkjet1/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
 
